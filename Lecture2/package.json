@@ -1,0 +1,29 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "React program",
+  "main": "App.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SowmyaVenkatesh27/ReactCourse.git"
+  },
+  "author": "Sowmya venkatesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SowmyaVenkatesh27/ReactCourse/issues"
+  },
+  "homepage": "https://github.com/SowmyaVenkatesh27/ReactCourse#readme",
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  },
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "bcryptjs": "^2.4.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
