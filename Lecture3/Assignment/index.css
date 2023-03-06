@@ -1,0 +1,25 @@
+*{
+    margin: auto 0;
+}
+.header{
+  display:flex ;
+  justify-content: space-between;
+    width: auto;
+    background-color: yellow;
+}
+.searchbar{
+    border :1px solid blue;
+    justify-content: space-between;
+    display:flex ;
+}
+.user{
+  display: flex;
+  
+}
+.logo{
+  width:70px;
+}
+
+.userico{
+  width:70px
+}
